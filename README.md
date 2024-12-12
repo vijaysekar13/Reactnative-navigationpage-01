@@ -109,3 +109,6 @@ The app handles various error scenarios:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+.The statement means that the project is distributed under the MIT License, a permissive open-source license. This license allows users to freely use, modify, distribute, and even include the code in proprietary software, provided they include the original license notice. For detailed terms, refer to the LICENSE file in the project's repository.
+
